@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FilterEditText">
+        <attr name="android:entries" />
+        <attr name="input_range" format="string"/>
+    </declare-styleable>
+
+</resources>

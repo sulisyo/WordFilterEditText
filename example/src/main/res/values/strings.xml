@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CobaFilter</string>
+
+    <string-array name="forbid">
+        <item>garis</item>
+        <item>dancuk</item>
+        <item>cocote</item>
+        <item>kampretos</item>
+    </string-array>
+
+    <string name="alpha_num_range">"qwertyuiopasdfghjklzxcvbnm.,_"</string>
+    <string name="alpha_num_space">"qwertyuiopasdfghjklzxcvbnm 0987654321 QWERTYUIOPASDFGHJKLZXCVBNM"</string>
+    <string name="email_range">"qwertyuiopasdfghjklzxcvbnm0987654321QWERTYUIOPASDFGHJKLZXCVBNM.@_"</string>
+</resources>
